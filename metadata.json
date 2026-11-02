@@ -1,0 +1,6 @@
+{
+  "name": "Krypton by Kordyne™ - Open Cybersecurity Suite",
+  "description": "Suite defensiva ligera de ciberseguridad y auditoría de privacidad con visualizador de constelación de vulnerabilidad, análisis de superficie de ataque, detector de fugas de telemetría y centinela en tiempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
